@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04ae1c85.css",
+    "main.js": "/static/js/main.615e1c21.js",
+    "static/js/787.24db4bd4.chunk.js": "/static/js/787.24db4bd4.chunk.js",
+    "static/media/portrait.png": "/static/media/portrait.81173021625079d55a5d.png",
+    "static/media/sanchezResume.pdf": "/static/media/sanchezResume.568b8fe2ac0d82a20a89.pdf",
+    "static/media/BebasNeue-Regular.woff": "/static/media/BebasNeue-Regular.558c0b09724cc2d2f36f.woff",
+    "index.html": "/index.html",
+    "main.04ae1c85.css.map": "/static/css/main.04ae1c85.css.map",
+    "main.615e1c21.js.map": "/static/js/main.615e1c21.js.map",
+    "787.24db4bd4.chunk.js.map": "/static/js/787.24db4bd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04ae1c85.css",
+    "static/js/main.615e1c21.js"
+  ]
+}
