@@ -1,6 +1,6 @@
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
-function ProjectContainer(props) {
+function CodeContainer(props) {
   return (
     <div className="projectContainer">
       <Card className="h-25 d-inline-block">
@@ -13,14 +13,9 @@ function ProjectContainer(props) {
               View code
             </Card.Link>
           </Button>
-          <Button variant="light">
-            <Card.Link href={props.projectLink} target="_blank">
-              View project
-            </Card.Link>
-          </Button>
         </Card.Body>
       </Card>
     </div>
   );
 }
-export default ProjectContainer;
+export default CodeContainer;
