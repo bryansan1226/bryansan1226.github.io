@@ -25,7 +25,7 @@ function App(props) {
       {pdfIsOpen && <Backdrop onClick={closePdfHandler} />}
       <div className="sidebar">
         <div className="fullName" maxWidth="sm">
-          Bryan Sanchez
+          Bryan Sanchez testing
         </div>
         <div>
           <img src={portrait} className="Portrait" />
