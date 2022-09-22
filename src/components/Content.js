@@ -18,7 +18,7 @@ function Content() {
                 image={solarEscapeIcon}
                 text="Solar Escape"
                 githubLink="https://github.com/bryansan1226/Solar-Escape"
-                projectLink="https://bryansan1226.github.io/Voice-recognition/"
+                projectLink="https://bryansan1226.github.io/Solar-Escape/"
               />
             </Col>
             <Col>
