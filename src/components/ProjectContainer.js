@@ -3,7 +3,7 @@ import Card from "react-bootstrap/Card";
 function ProjectContainer(props) {
   return (
     <div className="projectContainer">
-      <Card className="h-25 d-inline-block">
+      <Card className="card">
         <Card.Img variant="top" src={props.image} />
         <Card.Body>
           <Card.Title>{props.title}</Card.Title>

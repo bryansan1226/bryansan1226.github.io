@@ -12,7 +12,7 @@ function App(props) {
     <Container fluid>
       <div className="homepage">
         <Row>
-          <Col xs={3}>
+          <Col md={3}>
             <Sidebar />
           </Col>
           <Col>

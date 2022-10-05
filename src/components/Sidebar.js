@@ -7,15 +7,12 @@ import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import Image from "react-bootstrap/Image";
 import Card from "react-bootstrap/Card";
+
 function Sidebar() {
   return (
     <div className="sidebar">
-      <div className="fullName" maxWidth="sm">
-        Bryan Sanchez
-      </div>
-      <div>
-        <Image fluid src={portrait} className="Portrait" />
-      </div>
+      <div className="fullName">Bryan Sanchez</div>
+      <Image fluid src={portrait} className="Portrait" />
       <Card class="opacity-.6">
         <div className="contactInfo">
           <p>
@@ -38,12 +35,6 @@ function Sidebar() {
             <GitHubIcon />
             <a href="https://github.com/bryansan1226">bryansan1226</a>
           </p>
-          {/* <p>
-      <button className="openResume" onClick={openPdfHandler}>
-        <SummarizeIcon style={{ color: "black" }} />
-        Resume
-      </button>
-</p>*/}
         </div>
       </Card>
     </div>
