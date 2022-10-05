@@ -11,7 +11,7 @@ import Card from "react-bootstrap/Card";
 function Sidebar() {
   return (
     <div className="sidebar">
-      <div className="fullName">Bryan Sanchez</div>
+      <div className="fullName">Bryan Sanchez test</div>
       <Image fluid src={portrait} className="Portrait" />
       <Card class="opacity-.6">
         <div className="contactInfo">
