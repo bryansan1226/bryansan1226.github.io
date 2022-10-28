@@ -13,10 +13,11 @@ function Content() {
       <Container fluid>
         <Row md={3}>
           <Col>
-            <CodeContainer
+            <ProjectContainer
               image="https://cdn-icons-png.flaticon.com/512/69/69146.png"
               text="Job Application Tracker"
               githubLink="https://github.com/bryansan1226/applicationTracker"
+              projectLink="http://application-tracker-bryansan26.herokuapp.com"
             />
           </Col>
           <Col>
